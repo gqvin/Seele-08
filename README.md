@@ -21,7 +21,7 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 | Pin M5x30mm | 10 | | 
 | Pin M5x22mm | 2 | | 
 | GT2 20T 6mm Idler | 6 | | 
-| F695 Bearing | 16 | Can also harvest 8 smooth idlers off of stock gantry |
+| F695 Bearing | 18 | Can also harvest 8 smooth idlers off of stock gantry and only buy 2 |
 | 10x5x1mm Shim | 10 | | 
 | 10x5x0.5mm Shim | 12 | | 
 | Long Shaft Motors | 2 | AWD option coming soon, 2WD with stock motors coming soon. Recommended LDO 42STH48 - 2504 | 
