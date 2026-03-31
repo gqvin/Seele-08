@@ -29,9 +29,9 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 | Long Shaft Motors | 2 | AWD option coming soon, 2WD with stock motors coming soon. Recommended LDO 42STH48 - 2504 | 
 
 ## Printing:
-Standard Voron Settings (4 Walls, 5 Top/Bottom Layers, 40% Gyroid/TMPS-D)
-Front Idlers need supports.
-Reaming for the pins may be needed.
+Standard Voron Settings (4 Walls, 5 Top/Bottom Layers, 40% Gyroid/TMPS-D) <br/>
+Front Idlers need supports. <br/>
+Reaming for the pins may be needed. <br/>
 It is recommended to print [Z-Belt Helpers](https://www.printables.com/model/927729-sovol-sv08-z-belt-helper) by Nadir as you will be swapping out the Z joints.
 
 ## Acknowledgement: 
