@@ -27,6 +27,8 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 | 10x5x0.5mm Shim | 12 | | 
 | GT2 20T 6mm Pulley | 2 | | 
 | Long Shaft Motors | 2 | AWD option coming soon, 2WD with stock motors coming soon. Recommended LDO 42STH48 - 2504 | 
+| M3 Hardware | n/a | Heat Sets, SHCS | 
+| M4 Hardware | n/a | BHCS/SHCS, Nuts | 
 
 ## Printing:
 Standard Voron Settings (4 Walls, 5 Top/Bottom Layers, 40% Gyroid/TMPS-D) <br/>
