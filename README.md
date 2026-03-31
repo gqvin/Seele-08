@@ -25,3 +25,6 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 | 10x5x1mm Shim | 10 | | 
 | 10x5x0.5mm Shim | 12 | | 
 | Long Shaft Motors | 2 | AWD option coming soon, 2WD with stock motors coming soon. Recommended LDO 42STH48 - 2504 | 
+
+## Acknowledgement: 
+**CloakedWayne** for designing the original belt path that this gantry uses.
