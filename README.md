@@ -26,7 +26,7 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 | 10x5x1mm Shim | 10 | | 
 | 10x5x0.5mm Shim | 12 | | 
 | GT2 20T 6mm Pulley | 2 | | 
-| Long Shaft Motors | 2 | AWD option coming soon, 2WD with stock motors coming soon. Recommended LDO 42STH48 - 2504 | 
+| Long Shaft Motors | 2 | Recommended LDO 42STH48 - 2504 | 
 | M3 Hardware | n/a | Heat Sets, SHCS | 
 | M4 Hardware | n/a | BHCS/SHCS, Nuts | 
 
@@ -38,6 +38,12 @@ It is recommended to print [Z-Belt Helpers](https://www.printables.com/model/927
 
 ## Acknowledgement: 
 **CloakedWayne** for designing the original belt path that this gantry uses.
+
+## Future Goals:
+* 9mm Belt Support
+* AWD Support
+* Support for 2wd with stock motors
+* Redesign front tensioners to be more symmetrical
 
 ## Changes:
 
