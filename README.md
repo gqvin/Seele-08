@@ -32,6 +32,7 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 Standard Voron Settings (4 Walls, 5 Top/Bottom Layers, 40% Gyroid/TMPS-D)
 Front Idlers need supports.
 Reaming for the pins may be needed.
+It is recommended to print [Z-Belt Helpers](https://www.printables.com/model/927729-sovol-sv08-z-belt-helper) by Nadir as you will be swapping out the Z joints.
 
 ## Acknowledgement: 
 **CloakedWayne** for designing the original belt path that this gantry uses.
