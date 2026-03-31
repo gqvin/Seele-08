@@ -1,7 +1,7 @@
 # Seele-08
 Upgraded 2WD Gantry for the Sovol SV08 (AWD coming soon!)
 
-<img width="950" height="629" alt="image" src="https://github.com/user-attachments/assets/3a86335a-d749-4e1b-bc53-c46827ac2edf" />
+<img width="1664" height="603" alt="image" src="https://github.com/user-attachments/assets/09fbb4e4-c03b-444d-ad4d-3880cc7348ba" />
 
 Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/main) belt path by CloakedWayne.
 
@@ -43,9 +43,9 @@ It is recommended to print [Z-Belt Helpers](https://www.printables.com/model/927
 * 9mm Belt Support
 * AWD Support
 * Support for 2wd with stock motors
-* Redesign front tensioners to be more symmetrical
 
 ## Changes:
+* Stronger 2WD Idlers
 
 <br/><br/><br/><br/>
 This work is licensed under a
