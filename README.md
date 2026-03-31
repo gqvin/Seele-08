@@ -13,6 +13,7 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 * Better Tensioner Design
 * Only 3mm X loss and 5mm Y loss with stock toolhead
 * No new rails, extrusions, or belts needed!
+* Better compatability with toolheads that mount probe under the X extrusion
 
 ## BOM:
 | **Part** | **Qty** | **Store/Notes** | 
