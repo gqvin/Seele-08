@@ -1,7 +1,7 @@
 # Seele-08
 Upgraded 2WD Gantry for the Sovol SV08 (AWD coming soon!)
 
-<img width="890" height="576" alt="image" src="https://github.com/user-attachments/assets/4f3c171c-3000-4ca2-8726-c17f100509f4" />
+<img width="950" height="629" alt="image" src="https://github.com/user-attachments/assets/3a86335a-d749-4e1b-bc53-c46827ac2edf" />
 
 Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/main) belt path by CloakedWayne.
 
@@ -15,3 +15,12 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 * No new rails, extrusions, or belts needed!
 
 ## BOM:
+| **Part** | **Qty** | **Store/Notes** | 
+| :--- | :--- | :--- |
+| Pin M5x30mm | 10 | | 
+| Pin M5x22mm | 2 | | 
+| GT2 20T 6mm Idler | 6 | | 
+| F695 Bearing | 16 | Can also harvest 8 smooth idlers off of stock gantry |
+| 10x5x1mm Shim | 10 | | 
+| 10x5x0.5mm Shim | 12 | | 
+| Long Shaft Motors | 2 | AWD option coming soon, 2WD with stock motors coming soon. Recommended LDO 42STH48 - 2504 | 
