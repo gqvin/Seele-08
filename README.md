@@ -6,7 +6,7 @@ Upgraded 2WD Gantry for the Sovol SV08 (AWD coming soon!)
 Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/main) belt path by CloakedWayne.
 
 ## Benefits:
-* Much shorter belt path compared to stock (Higher Accelerations!)
+* Shorter belt path compared to stock (Higher Accelerations!)
 * Lighter Gantry Parts
 * Entirely pinned
 * Double Shear (With Long Shaft Motors)
@@ -34,7 +34,10 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 Standard Voron Settings (4 Walls, 5 Top/Bottom Layers, 40% Gyroid/TMPS-D) <br/>
 Front Idlers need supports. <br/>
 Reaming for the pins may be needed. <br/>
-It is recommended to print [Z-Belt Helpers](https://www.printables.com/model/927729-sovol-sv08-z-belt-helper) by Nadir as you will be swapping out the Z joints.
+It is recommended to print [Z-Belt Helpers](https://www.printables.com/model/927729-sovol-sv08-z-belt-helper) by Nadir as you will be swapping out the Z joints. <br/>
+If you are reusing the stock toolhead, print the belt clips from this repository. <br/>
+You need to print some sort of Z-Chain Relocation mod. I recommend and used [these](https://www.printables.com/model/1320159-sv08-under-gantry-cable-chain-mount-for-sovol-cabl). <br/>
+
 
 ## Acknowledgement: 
 **CloakedWayne** for designing the original belt path that this gantry uses.
@@ -45,7 +48,9 @@ It is recommended to print [Z-Belt Helpers](https://www.printables.com/model/927
 * Support for 2wd with stock motors
 
 ## Changes:
+* 2wd 6mm release
 * Stronger 2WD Idlers
+* Changed tolerances significantly and allowed for more standard screw lengths
 
 <br/><br/><br/><br/>
 This work is licensed under a
