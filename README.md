@@ -51,7 +51,7 @@ You need to print some sort of Z-Chain Relocation mod. I recommend and used [the
 * 2wd 6mm release
 * Stronger 2WD Idlers
 * Changed tolerances significantly and allowed for more standard screw lengths
-
+* I have a [printables project](https://www.printables.com/model/1706696-seele-08-sovol-sv08-gantry) too if one prefers 
 <br/><br/><br/><br/>
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
