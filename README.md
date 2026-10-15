@@ -15,6 +15,7 @@ Uses a modified [Monolith](https://github.com/Monolith3D/Monolith_Gantry/tree/ma
 * No new rails, extrusions, or belts needed!
 * Better compatability with toolheads that mount probe under the X extrusion
 * No need for dehubbed pulleys
+* High- or Low-mounted motors (Low mounted motors are untested)
 
 ## BOM:
 | **Part** | **Qty** | **Store/Notes** | 
